@@ -1,0 +1,5 @@
+2021/10/09 12:47:27 [error] 27056#21444: *1 CreateFile() "C:\Users\User\Desktop\nginx-1.21.3/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2021/10/09 14:32:07 [emerg] 8660#17028: unexpected "}" in C:\Users\User\Desktop\nginx-1.21.3/conf/nginx.conf:47
+2021/10/09 14:32:10 [emerg] 27040#12696: unexpected "}" in C:\Users\User\Desktop\nginx-1.21.3/conf/nginx.conf:47
+2021/10/09 14:40:07 [warn] 27380#17904: server name "http://localhost:5000" has suspicious symbols in C:\Users\User\Desktop\nginx-1.21.3/conf/nginx.conf:37
+2021/10/09 14:40:07 [warn] 18504#18864: server name "http://localhost:5000" has suspicious symbols in C:\Users\User\Desktop\nginx-1.21.3/conf/nginx.conf:37
